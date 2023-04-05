@@ -1,0 +1,15 @@
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ZipFile.csproj.AssemblyReference.cache
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ZipFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ZipFile.AssemblyInfoInputs.cache
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ZipFile.AssemblyInfo.cs
+C:\Users\karan\Desktop\ZipFile\bin\Debug\net7.0\ZipFile.exe
+C:\Users\karan\Desktop\ZipFile\bin\Debug\net7.0\ZipFile.deps.json
+C:\Users\karan\Desktop\ZipFile\bin\Debug\net7.0\ZipFile.runtimeconfig.json
+C:\Users\karan\Desktop\ZipFile\bin\Debug\net7.0\ZipFile.dll
+C:\Users\karan\Desktop\ZipFile\bin\Debug\net7.0\ZipFile.pdb
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ZipFile.csproj.CoreCompileInputs.cache
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ZipFile.dll
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\refint\ZipFile.dll
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ZipFile.pdb
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ZipFile.genruntimeconfig.cache
+C:\Users\karan\Desktop\ZipFile\obj\Debug\net7.0\ref\ZipFile.dll
